@@ -4,7 +4,7 @@ Este projeto é uma aplicação de backend desenvolvida para fixar os fundamento
 
 ## 🚀 Tecnologias Utilizadas
 * **Java** (JDK 25)
-* **IDE:** IntelliJ / Eclipse
+* **IDE:** Visual Studio Code
 * **Conceitos aplicados:**
   * Estruturas condicionais (`switch/case` e `if/else`)
   * Tratamento de fluxo e exceções (evitar divisão por zero)
