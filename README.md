@@ -28,7 +28,7 @@ Este projeto é uma aplicação de backend desenvolvida para fixar os fundamento
 2.  **Entre na pasta do projeto:**
 
     ```bash
-    cd calculadora-java
+    cd calculadoraJava
     ```
 
 3.  **Compile o código:**
